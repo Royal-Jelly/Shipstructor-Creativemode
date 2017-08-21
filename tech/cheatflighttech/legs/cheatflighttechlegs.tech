@@ -1,0 +1,17 @@
+{
+  "name" : "cheatflighttechlegs",
+  "type" : "legs",
+
+  "description" : "Fly like a god! Warning: Do not enable creative flight tech in the other tabs. Only after swithing this one off.",
+  "shortDescription" : "Creative Flight Body",
+  "rarity" : "Uncommon",
+  "icon" : "/tech/flight.png",
+
+  "scripts" : ["cheatflighttechlegs.lua"],
+  "actions" : [ "boostRightUp", "boostRightDown", "boostLeftUp", "boostLeftDown", "boostRight", "boostDown", "boostLeft", "boostUp" ],
+  "animator" : "cheatflighttechlegs.animation",
+
+  "boostControlForce" : 300,
+  "boostSpeed" : 40,
+  "energyUsagePerSecond" : 140
+}

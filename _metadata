@@ -1,0 +1,9 @@
+{
+  "author" : "Royal~Jelly",
+  "description" : "***Important: these are the tools needed for Using Ship Engineering mode.***",
+  "friendlyName" : "Shipstructor Build Tools",
+  "link" : "",
+  "name" : "shipstructortools",
+  "requires" : ["shipstructor"],
+  "version" : "1.2.2"
+}

@@ -1,0 +1,51 @@
+[
+// Debug Items ~
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "shipT9", 1 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "apexshipwall", 1000 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "apexshipdetails", 1000 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "apexshipsupport", 1000 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "apexshiplight", 100 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "bigboosterflame", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "bigboosterflameavian", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "bigboosterflameglitch", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "bigboosterflamehuman", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "encounterbigboosterflame", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "boosterflame", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "boosterflameapex", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "boosterflameapex2", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "boosterflameapex3", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "boosterflamehuman2", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "boosterflamehuman3", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "boosterflamenovakid", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "encounterboosterflame", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "boosterflamehuman", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "encounterboosterflamehuman", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "encountersmallboosterflame", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "encountersmallboosterflame2", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "smallboosterflame", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "smallboosterflameglitch", 10 ] } },
+  { "op": "add", "path": "/starterTreasure/0/1/fill/-", "value": { "item": [ "smallboosterflamehuman2", 10 ] } },
+
+// Apex
+  { "op": "add", "path": "/apexStarterTreasure/0/1/fill/-", "value": { "item": [ "apexshiptether", 1 ] } },
+  { "op": "add", "path": "/apexStarterTreasure/0/1/fill/-", "value": { "item": [ "apexT3shipcontroller", 1 ] } },
+  { "op": "add", "path": "/apexStarterTreasure/0/1/fill/-", "value": { "item": [ "apexT8shipcontroller", 1 ] } },
+// Avian
+  { "op": "add", "path": "/avianStarterTreasure/0/1/fill/-", "value": { "item": [ "avianshiptether", 1 ] } },
+  { "op": "add", "path": "/avianStarterTreasure/0/1/fill/-", "value": { "item": [ "avianT3shipcontroller", 1 ] } },
+// Floran
+  { "op": "add", "path": "/floranStarterTreasure/0/1/fill/-", "value": { "item": [ "floranshiptether", 1 ] } },
+  { "op": "add", "path": "/floranStarterTreasure/0/1/fill/-", "value": { "item": [ "floranT3shipcontroller", 1 ] } },
+// Glitch
+  { "op": "add", "path": "/glitchStarterTreasure/0/1/fill/-", "value": { "item": [ "glitchshiptether", 1 ] } },
+  { "op": "add", "path": "/glitchStarterTreasure/0/1/fill/-", "value": { "item": [ "glitchT3shipcontroller", 1 ] } },
+// Human
+  { "op": "add", "path": "/humanStarterTreasure/0/1/fill/-", "value": { "item": [ "humanshiptether", 1 ] } },
+  { "op": "add", "path": "/humanStarterTreasure/0/1/fill/-", "value": { "item": [ "humanT3shipcontroller", 1 ] } },
+// Hylotl
+  { "op": "add", "path": "/hylotlStarterTreasure/0/1/fill/-", "value": { "item": [ "hylotlshiptether", 1 ] } },
+  { "op": "add", "path": "/hylotlStarterTreasure/0/1/fill/-", "value": { "item": [ "hylotlT3shipcontroller", 1 ] } },
+// Novakid
+  { "op": "add", "path": "/novakidStarterTreasure/0/1/fill/-", "value": { "item": [ "novakidshiptether", 1 ] } },
+  { "op": "add", "path": "/novakidStarterTreasure/0/1/fill/-", "value": { "item": [ "novakidT3shipcontroller", 1 ] } }
+]
